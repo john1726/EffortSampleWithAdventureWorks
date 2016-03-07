@@ -1,0 +1,14 @@
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\bin\Debug\WcfEntitiesSample.DataAccessTest.dll.config
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\bin\Debug\WcfEntitiesSample.DataAccessTest.dll
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\bin\Debug\WcfEntitiesSample.DataAccessTest.pdb
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\bin\Debug\Effort.dll
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\bin\Debug\EntityFramework.dll
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\bin\Debug\NMemory.dll
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\bin\Debug\Effort.xml
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\bin\Debug\EntityFramework.xml
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\bin\Debug\NMemory.xml
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\obj\Debug\WcfEntitiesSample.DataAccessTest.csprojResolveAssemblyReference.cache
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\obj\Debug\WcfEntitiesSample.DataAccessTest.dll
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\UnitTests\obj\Debug\WcfEntitiesSample.DataAccessTest.pdb

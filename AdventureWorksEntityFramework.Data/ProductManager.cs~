@@ -1,0 +1,59 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Text;
+using AdventureWorksEntityFramework.DataAccess;
+
+namespace AdventureWorksEntityFramework.DataAccess
+{
+    // The repository
+    public class ProductManager
+    {
+        private IAdventureWorksDbContext _dbContext;
+
+        public ProductManager(IAdventureWorksDbContext dbContext)
+        {
+            dbContext.Configuration.AutoDetectChangesEnabled = false;
+            this._dbContext = dbContext;
+        }
+
+        public Product GetProductById(int productID)
+        {
+            IEnumerable<Product> products = null;
+
+            products = _dbContext.vProductProductInventories
+                    .Where(prod => prod.ProductID == productID)
+                    .Select(p => new Product
+                    {
+                        ProductID = p.ProductID,
+                        Name = p.Name,
+                        ProductNumber
+        MakeFlag
+        FinishedGoodsFlag
+        Color
+        SafetyStockLevel
+        ReorderPoint
+        StandardCost
+        ListPrice
+        Size
+        SizeUnitMeasureCode
+        WeightUnitMeasureCode
+        Weight
+        DaysToManufacture
+        ProductLine
+        Class
+        Style
+        ProductSubcategoryID
+        ProductModelID
+        SellStartDate
+        SellEndDate
+        DiscontinuedDate
+        rowguid
+        ModifiedDate
+                    });
+
+            return products.ToList()[0];
+        }
+    }
+}

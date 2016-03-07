@@ -1,0 +1,6 @@
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\WcfEntitiesSample.Data\bin\Debug\WcfEntitiesSample.Data.dll.config
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\WcfEntitiesSample.Data\bin\Debug\WcfEntitiesSample.Data.dll
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\WcfEntitiesSample.Data\bin\Debug\WcfEntitiesSample.Data.pdb
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\WcfEntitiesSample.Data\bin\Debug\EntityFramework.xml
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\WcfEntitiesSample.Data\obj\Debug\WcfEntitiesSample.Data.dll
+C:\Workspace\CoursesNResources\CodeProject\CodeProjectEffortEntityFrameworkSample\WcfEntitiesSample.Data\obj\Debug\WcfEntitiesSample.Data.pdb
